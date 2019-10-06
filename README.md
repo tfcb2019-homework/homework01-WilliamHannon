@@ -10,7 +10,7 @@ At the end of this assignment, you will have two public repositories. One reposi
 
 Make a GitHub account and populate your bio by including your research interests, place of work, location, professional webpage (or science-focused twitter account!). Here's an example [github.com/trvrb/](https://github.com/trvrb/).
 
-_Include the link to your GitHub profile here._
+_https://github.com/WilliamHannon_
 
 ## Problem 2
 
@@ -49,7 +49,7 @@ Organize files into a more consistent structure. Group images into a `images/` d
 
 Commit changes and publish to your public GitHub repository. Locate the URL of this commit by clicking on "commits" from your project page on GitHub, which should be similar in format to: https://github.com/fredhutchio/tfcb_2019/commit/16b5235bd2d908c96f22297813e6aaf9f172ad41
 
-_Include the commit URL for your reorganized project here._
+_https://github.com/WilliamHannon/tfcb-homework01_
 
 ## Problem 4
 
