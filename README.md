@@ -37,7 +37,7 @@ This question assesses your ability to publish projects to GitHub.
 
 Publish `tfcb-homework01` to GitHub using GitHub Desktop. Make sure to set this to be a "public" repository. The resulting repository can now be accessed at github.com/{your_name}/tfcb-homework01. If necessary, you can make this repository public by going to "Settings" from this page.
 
-_Include the link to your `tfcb-homework01` GitHub repository here._
+_https://github.com/WilliamHannon/tfcb-homework01_
 
 ## Problem 4
 
@@ -49,7 +49,7 @@ Organize files into a more consistent structure. Group images into a `images/` d
 
 Commit changes and publish to your public GitHub repository. Locate the URL of this commit by clicking on "commits" from your project page on GitHub, which should be similar in format to: https://github.com/fredhutchio/tfcb_2019/commit/16b5235bd2d908c96f22297813e6aaf9f172ad41
 
-_https://github.com/WilliamHannon/tfcb-homework01_
+__
 
 ## Problem 4
 
