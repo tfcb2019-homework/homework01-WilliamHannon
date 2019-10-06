@@ -61,7 +61,7 @@ Create a file called `README.md` and populate with Markdown. Demonstrate headers
 
 Commit this file and publish to your public GitHub repository.
 
-_https://github.com/WilliamHannon/tfcb-homework01/master/README.md_
+_https://github.com/WilliamHannon/tfcb-homework01/blob/master/README.md_
 
 ## Problem 5
 
@@ -75,4 +75,4 @@ Export this as a tab-delimited `.tsv` text file with Unix line endings.
 
 Commit the modified `.xlsx` file and the `.tsv` file and publish to your public GitHub repository.
 
-_https://github.com/WilliamHannon/tfcb-homework01/master/data/survey_data.tsv_
+_https://github.com/WilliamHannon/tfcb-homework01/blob/master/data/survey_data.tsv_
